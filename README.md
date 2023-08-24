@@ -1,2 +1,2 @@
 # Mad Man Blogs
-a blog2
+a blog, the [website](https://t-88.github.io/) 
